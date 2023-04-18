@@ -1,9 +1,3 @@
-### Hi there 👋
-
-- 🔭 I’m currently working on Shopify Projects
-- 🌱 I’m currently learning JavaScript
-- 💬 Ask me about Shopify Store Setup
-
 # <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"> Hey there, nice to see you! :-)<br>
 
 ### Welcome to my page. I'm EJ, a Shopify Web-Developer from <img src="./united-states.png" width="13"> LA, US.
